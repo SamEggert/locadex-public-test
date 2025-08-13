@@ -14,7 +14,7 @@ export default function Home() {
           priority
         />
         <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
-          <p>Test2</p>
+          <p>Test3</p>
           <T>
             <li className="mb-2 tracking-[-.01em]">
               Get started by editing{" "}
